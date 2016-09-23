@@ -14,4 +14,14 @@ numbers.forEach( function(number){
 
 //print the sum variable
 
-sum
+//console.log(sum);
+
+
+function adder(number){
+	sum += number;
+}
+
+
+numbers.forEach(adder);
+
+console.log(sum)
