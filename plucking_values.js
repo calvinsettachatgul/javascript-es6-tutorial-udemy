@@ -15,10 +15,15 @@ var images = [
 ]
 
 var heights;
-
+/*
 heights = images.map(function(image){
 	return image.height;
 });
+*/
 
+heights = images.map( image => image.height );
 
 console.log(heights);
+
+
+
