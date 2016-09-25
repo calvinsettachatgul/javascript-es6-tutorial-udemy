@@ -20,3 +20,20 @@ var doubled = numbers.map(function(number){
 
 
 console.log(doubled);
+
+
+// plucking a particular property from an array
+
+// more practical uses of map in the next session
+
+// build on a day to day basics
+
+
+// rendering lists of data
+
+
+// use case for the mapHelper
+
+// transform some data to render it the data to the screen
+
+
